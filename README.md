@@ -1,5 +1,7 @@
 # EcommerceProjeto
 
+![tela ecommerce](https://user-images.githubusercontent.com/52809806/183227558-0074abed-3fd8-4099-9451-3285c58922c0.JPG)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
 ## Development server
